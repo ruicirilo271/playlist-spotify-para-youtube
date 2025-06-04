@@ -14,7 +14,7 @@ https://dee4-109-48-203-219.ngrok-free.app/youtube_callback
 
 https://dee4-109-48-203-219.ngrok-free.app/spotify_callback
 
-substitui os links dados na app.py
+substitui os links dados tambem na app.py
 
 A playlist do spotify tem que ser publica 
 
