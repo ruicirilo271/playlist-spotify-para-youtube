@@ -20,6 +20,6 @@ A playlist do spotify tem que ser publica
 
 nao te esqueças do client secret e client id do spotify
 
-verifa se a tua api do youtube tem chamadas soficientes para as musicas que queres adicionar
+verifa se a tua api do youtube tem chamadas suficientes para as musicas que queres adicionar
 
 python app.py
