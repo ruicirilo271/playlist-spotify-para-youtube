@@ -2,3 +2,4 @@ Flask
 gunicorn
 google-auth-oauthlib
 requests-oauthlib
+spotipy
