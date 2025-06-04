@@ -18,6 +18,6 @@ substitui os links dados tambem na app.py
 
 A playlist do spotify tem que ser publica 
 
-
+verifa se a tua api do youtube tem chamadas soficientes para as musicas que queres adicionar
 
 python app.py
