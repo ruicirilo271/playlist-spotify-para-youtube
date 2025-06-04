@@ -16,6 +16,8 @@ https://dee4-109-48-203-219.ngrok-free.app/spotify_callback
 
 substitui os links dados na app.py
 
+A playlist do spotify tem que ser publica 
+
 
 
 python app.py
